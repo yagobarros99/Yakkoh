@@ -5,7 +5,7 @@
 - 👯 Empolgado, muito curioso e disposto a participar de qualquer colaboração com intuito de aprendizado;
 - 😄 Pronouns: ele/dele.
 
-<div align="center">
+<div>
   <a href="https://github.com/Yakkoh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yakkoh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yakkoh&layout=compact&langs_count=7&theme=dark"/>
@@ -17,8 +17,7 @@
  	<a href="https://www.twitch.tv/yagym" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto: yago10009@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yago-ant%C3%B4nio-de-barros-892385208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+ 
+    ![Snake animation](https://github.com/Yakkoh/Yakkoh/blob/output/github-contribution-grid-snake.svg)  
   </div>
-  
-  <div>
-    ![Snake animation](https://github.com/yakkoh/yakkoh/blob/output/github-contribution-grid-snake.svg)
-  </div>
+   
