@@ -18,7 +18,7 @@
   <a href = "mailto: yago10009@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yago-ant%C3%B4nio-de-barros-892385208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
-    ![Snake animation](https://github.com/Yakkoh/Yakkoh/blob/main/.github/workflows/main.yml)
+    ![Snake animation](https://github.com/Yakkoh)
     
   </div>
   
