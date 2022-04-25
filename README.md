@@ -1,4 +1,4 @@
-### Hey, prazer me chamo Yago Antônio de Barros! 👋
+### Hey, prazer, me chamo Yago Antônio de Barros! 👋
 
 - 👨‍🔧 Atualmente trabalho como Mecânico de Refrigeração;
 - 🌱 Estou aprendendo JavaScript e ReactJS;
