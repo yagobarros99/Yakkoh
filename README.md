@@ -1,7 +1,7 @@
 ### Hey, prazer, me chamo Yago Antônio de Barros! 👋
 
 - 👨‍🔧 Atualmente trabalho como Mecânico de Refrigeração;
-- 🌱 Estou aprendendo JavaScript e ReactJS;
+- 🌱 Estou aprendendo JavaScript e NodeJS;
 - 👯 Empolgado, muito curioso e disposto a participar de qualquer colaboração com intuito de aprendizado;
 - 😄 Pronouns: ele/dele.
 
