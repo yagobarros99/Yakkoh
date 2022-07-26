@@ -6,9 +6,9 @@
 - 😄 Pronouns: ele/dele.
 
 <div>
-  <a href="https://github.com/Yakkoh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yakkoh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yakkoh&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/yagobarros99">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yagobarros99&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagobarros99&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div> 
